@@ -2,7 +2,7 @@
 Learning journal for Code Fellows
 
 ## About Me
-![Picture of me](/assets/images/soundersgame.jpeg)
+![Picture of me](/reading-notes/soundersgame.jpg)
 
 
 [Github portfolio](https://github.com/MatthewGebhart)
