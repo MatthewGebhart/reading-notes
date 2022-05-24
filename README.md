@@ -16,3 +16,8 @@ Learning journal for Code Fellows
 - Q: What are some bad habits to avoid at the beginning of my coding journey? double spaces after a line?
 
 
+this is a test of using backticks to `insert code` 
+
+and a test of inserting a link [Zoe Woodworks](http://www.zoewoodworks.com)
+
+  
