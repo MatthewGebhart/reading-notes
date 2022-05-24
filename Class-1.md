@@ -1,4 +1,4 @@
-# Lesson 1 reading notes
+# Class 1 reading notes
 
 ## Markdown notes
 
