@@ -16,12 +16,3 @@ Learning journal for Code Fellows
 - Q: What are some bad habits to avoid at the beginning of my coding journey? double spaces after a line?
 
 
-<ul>
-  <li>This is a list
-  </li>
-  <li>This is more list
-  </li>
-  <li>Even more listing
-  </li>
-    <ul>
-    
