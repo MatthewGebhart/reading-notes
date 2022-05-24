@@ -25,7 +25,8 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 - Ask for help
 - Keep reminders around of where you started from
 - Obsticles
-  - don't lose focus when hitting a roadblock *stay on target*  
+  - don't lose focus when hitting a roadblock *stay on target* 
+  - Put in the effort - <sub>Don't hit the snooze button</sub> 
 
 
 - Mind the gap (spaces matter both after the markdown and carraige returns after headeings)
