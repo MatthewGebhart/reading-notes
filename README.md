@@ -3,7 +3,7 @@ Learning journal for Code Fellows
 
 ## About Me
 
-<img src="/soundersgame.jpg" width=200>
+<img src="https://user-images.githubusercontent.com/106119331/170121988-12ab9569-1f92-43df-90c4-e6ec3e9a202f.jpg" width=200>
 
 *on the way to a Sounders game with my wife*
 
