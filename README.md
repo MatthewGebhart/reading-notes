@@ -2,9 +2,13 @@
 Learning journal for Code Fellows
 
 ## About Me
-![Picture of me](/reading-notes/soundersgame.jpg)
 
+<img src="/soundersgame.jpg" width=200>
 
+*on the way to a Sounders game with my wife*
+
+Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding. I've been a few places on my journey up to here. I was a wedding and portrait photographer for over ten years, worked in the non-profit sector, and more recently started a [woodworking business](https://www.zoewoodworks.com) selling wood art and home goods. I love to learn new things and I am very excited to dive into this new adventure. 
+  
 [Github portfolio](https://github.com/MatthewGebhart)
 
 
@@ -27,9 +31,5 @@ Learning journal for Code Fellows
 - Mind the gap (spaces matter both after the markdown and carraige returns after headeings)
 - Q: What are some bad habits to avoid at the beginning of my coding journey? double spaces after a line?
 
-
-this is a test of using backticks to `insert code` 
-
-and a test of inserting a link [Zoe Woodworks](http://www.zoewoodworks.com)
 
   
