@@ -14,7 +14,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 
 ## Code 102 Daily Lesson notes
 
-1. [Lesson 1 - Markdown](./Lesson-1.md)
-
+1. [Class 1 - Markdown](./Class-1.md)
+2. [Class 2 - The Coders Computer](./Class-2.md)
 
   
