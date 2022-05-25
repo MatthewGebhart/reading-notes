@@ -16,5 +16,5 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 
 1. [Class 1 - Markdown](./Class-1.md)
 2. [Class 2 - The Coders Computer](./Class-2.md)
-
+3. [Class 3 - Revisions and the Cloud](./Class-3.md)
   
