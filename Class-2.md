@@ -20,7 +20,6 @@
   - *absolute* paths are in relation to the root directory and start with /
   - *relative* paths specify a location in relation to where we currently are
   -  ~ is home (root) directory /users/matthewgebhart .(dot) is current directory  ..(dotdot) is reference to parent directory
--     
 
 
 ### useful commands
