@@ -10,6 +10,7 @@
 ## Reading notes
 
 *A growth mindset is important to success in this program*
+
 - A love of learning
   - Intelligence and talent are not fixed traits and can be developed through perseverance and effort
 - Keep trying

@@ -11,6 +11,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
   
 [Github portfolio](https://github.com/MatthewGebhart)
 
+----
 
 ## Code 102 Daily Lesson notes
 

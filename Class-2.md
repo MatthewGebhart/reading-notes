@@ -14,13 +14,13 @@
 ## Command line tutorial
 
 ### notes
+
 - echo is not showing bash for me is that a problem?
 - *shortcuts* up and down keys can repeat recently used commands
 - A *path* is a means to get to a particular file or directory on the system.
   - *absolute* paths are in relation to the root directory and start with /
   - *relative* paths specify a location in relation to where we currently are
-  -  ~ is home (root) directory /users/matthewgebhart .(dot) is current directory  ..(dotdot) is reference to parent directory
-
+  - ~ is home (root) directory /users/matthewgebhart .(dot) is current directory  ..(dotdot) is reference to parent directory
 
 ### useful commands
 
