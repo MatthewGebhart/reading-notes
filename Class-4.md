@@ -5,7 +5,7 @@
 ### An introduction to wireframing
 
 - What is a wireframe?
-  - process used by UX designers to sketck out a rough idea of what a website will look like
+  - process used by UX designers to sketch out a rough idea of what a website will look like
   - black and white diagrams
   - intentionally simplistic
 - Wireframe examples
@@ -22,7 +22,7 @@
 
 1. Do your research
 
-- UX design is a process - who is your adudience, requirements for the page
+- UX design is a process - who is your audience, requirements for the page
 
 2. Prepare your research for quick reference
 
@@ -53,10 +53,10 @@
 ### How to make your wireframe good: Three key principles
 
 1. Maintain clarity
-  - answer the questions of what the site page is and what a user cna do there
+  - answer the questions of what the site page is and what a user can do there
 2. Gain user confidence
   - ease of navigation, clear calls-to-action
-  - placing navigation and buttons in predicatable and intuitave places
+  - placing navigation and buttons in predictable and intuitive places
 3. Simplicity is key
   - too much information can be distracting to the user
   - as little extra "fluff" as possible. 
@@ -80,7 +80,7 @@
 ## **Semantics**
 
 - Semantics refers to the *meaning* of a piece of code
-  - What efffect does running that line of JavaScript have?
+  - What effect does running that line of JavaScript have?
 - HTML should be coded to represent the data that will be populated - H1 headers are a title for example
 
 ----
