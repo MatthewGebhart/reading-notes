@@ -19,4 +19,5 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 2. [Class 2 - The Coders Computer](./Class-2.md)
 3. [Class 3 - Revisions and the Cloud](./Class-3.md)
 4. [Class 4 - Structure web pages with HTML](./Class-4.md)
+5. [Class 5 - Design web pages with CSS](./Class-5.md)
   
