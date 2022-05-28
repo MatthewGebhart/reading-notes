@@ -5,7 +5,7 @@
 - Cascading Style Sheets
 - Control how HTML elements look in your browser
 - A browser is sometimes called a "user agent"
-- rule-based language - change rules by specifying groups of styles that apply to particular selments or groups of elements
+- rule-based language - change rules by specifying groups of styles that apply to particular elements or groups of elements
 - CSS is broken down into modules
 - All web standards technologies (HTML, CSS, JavaScript, etc.) are defined in giant documents called specifications (or "specs"), which are published by standards organizations (such as the W3C, WHATWG, ECMA, or Khronos) and define precisely how those technologies are supposed to behave.
 - CSS is developed by a group within the W3C called the CSS Working Group
@@ -17,7 +17,7 @@
 ### Three ways to insert CSS
 
 - External CSS
-  - External style sheet fule that is referenced by each page and placed in the `<link>` element in the `<head>` section of an HTML page
+  - External style sheet file that is referenced by each page and placed in the `<link>` element in the `<head>` section of an HTML page
   - external file must have a .css extension and should not contain any HTML tags
 - Internal CSS
   - May be used if one single HTML page has a unique style

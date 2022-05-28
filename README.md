@@ -20,4 +20,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 3. [Class 3 - Revisions and the Cloud](./Class-3.md)
 4. [Class 4 - Structure web pages with HTML](./Class-4.md)
 5. [Class 5 - Design web pages with CSS](./Class-5.md)
+6. [Class 6 - JavaScript](./Class-6.md)
+7. [Class 7 - Functions](./Class-7.md)
+8. [Class 8 - Loops](./Class-8.md)
   
