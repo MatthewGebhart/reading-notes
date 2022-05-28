@@ -62,6 +62,6 @@
 - Declare a JS variable with `var` or `let`
   - it is undefined until it is assigned a value with the = sign
 - Note - It's a good programming practice to declare all variables at the beginning of a script
-- You can declare many variables in one statement. seperate them by a comma.
+- You can declare many variables in one statement. separate them by a comma.
   - let person = "John Doe", carName = "Volvo", price = 200;
-- 
+  
