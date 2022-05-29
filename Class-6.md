@@ -27,13 +27,13 @@
   - Dynamic code - update the display of a web page/app to show different things in different circumstances, generating new content as required.
   - Static - A web page with no dynamically updating content is referred to as static — it just shows the same content all the time.
 
-  ## JavaScript Variables
+## JavaScript Variables
 
-  - 4 ways to declare a JS variable
-    - Using `var`
-    - using `let`
-    - Using `const`
-    - Using `nothing`
+- 4 ways to declare a JS variable
+  - Using `var`
+  - using `let`
+  - Using `const`
+  - Using `nothing`
 - Variables are containers for storing data (data values)
 - Always declare JavaScript variables with `var`,`let`, `or const`
 - `var`
