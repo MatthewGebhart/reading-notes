@@ -1,4 +1,4 @@
-# Class 7 Reading Notes
+# Class 8 Reading Notes
 
 ## Expressions and operators
 
