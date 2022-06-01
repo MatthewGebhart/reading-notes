@@ -1,7 +1,5 @@
 # Class 8 Reading Notes
 
-testing for class. will this be a different thing?
-
 ## Expressions and operators
 
 ### Assignment operators
