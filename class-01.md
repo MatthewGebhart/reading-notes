@@ -44,7 +44,7 @@
 - `<div>` a holdout from HTML4 that groups related elements together
 - `<a>` allows linking around block level elements
 
-## HTML Chapter 18 - Process and Design (pp.452-475)
+## HTML Chapter 18 - Process and Design 
 
 - Things to think about when designing a website
   - *who* is the site for (target audience)
@@ -61,7 +61,7 @@
 - Group similar elements together
 - Navigation element should be clear, concise, selective, provide context, interactive, and consistent
 
-## JS Chapter 1 - The ABC of Programming (pp.11-52)
+## JS Chapter 1 - The ABC of Programming 
 
 - A script is a "series of instructions that a computer can follow to achieve a goal. (like a recipe or manual)
 - Determine the goal and then decide the steps required to reach it. 

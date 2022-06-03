@@ -32,13 +32,13 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 15. Read 15 - 
 
 ## Code 102 Daily Lesson notes
-Code 102 notes/Class-1.md
-1. [Class 1 - Markdown](./Code 102 notes/Class-1.md)
-2. [Class 2 - The Coders Computer](./Class-2.md)
-3. [Class 3 - Revisions and the Cloud](./Class-3.md)
-4. [Class 4 - Structure web pages with HTML](./Class-4.md)
-5. [Class 5 - Design web pages with CSS](./Class-5.md)
-6. [Class 6 - JavaScript](./Class-6.md)
-7. [Class 7 - Functions](./Class-7.md)
-8. [Class 8 - Loops](./Class-8.md)
+
+1. [Class 1 - Markdown](./Code-102-notes/Class-1.md)
+2. [Class 2 - The Coders Computer](./Code-102-notes/Class-2.md)
+3. [Class 3 - Revisions and the Cloud](./Code-102-notes/Class-3.md)
+4. [Class 4 - Structure web pages with HTML](./Code-102-notes/Class-4.md)
+5. [Class 5 - Design web pages with CSS](./Code-102-notes/Class-5.md)
+6. [Class 6 - JavaScript](./Code-102-notes/Class-6.md)
+7. [Class 7 - Functions](./Code-102-notes/Class-7.md)
+8. [Class 8 - Loops](./Code-102-notes/Class-8.md)
   
