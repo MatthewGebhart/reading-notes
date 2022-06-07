@@ -16,7 +16,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 ## Code 201 Reading Notes
 
 1. [Read 01 - Introductory HTML and JavaScript](./class-01.md)
-2. Read 02 - 
+2. [Read 02 - Basics of HTML, CSS & JS](./class-02.md)
 3. Read 03 - 
 4. Read 04 - 
 5. Read 05 - 
