@@ -1,6 +1,7 @@
 # Class 3 Reading Notes
 
 ## Things I want to know more about
+- I'd like to know more about changing data types and what data types will be recognized by different operators. How do we know if it will recognize a string, number or Boolean?
 
 ## HTML Chapter 3: “Lists” (pp.62-73)
 
