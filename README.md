@@ -18,7 +18,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 1. [Read 01 - Introductory HTML and JavaScript](./class-01.md)
 2. [Read 02 - Basics of HTML, CSS & JS](./class-02.md)
 3. [Read 03 - HTML Lists, CSS Boxes, JS Control Flow](./class-03.md)
-4. Read 04 - 
+4. [Read 04 - HTML Links, JS Functions, and Intro to CSS Layout](./class-04.md)
 5. Read 05 - 
 6. Read 06 - 
 7. Read 07 - 
