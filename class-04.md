@@ -3,11 +3,11 @@
 ## Things I want to know more about
 
 - I want to learn more about writing and calling from arrays and how this can simplify my code
-- 
 
 ## HTML Chapter 4: Ch.4 “Links” (pp.74-93)
-- Links are created in a <a> element
-- Linking to other sites 
+
+- Links are created in a `<a>` element
+- Linking to other sites
   - `<a href="http:www.coollinkylink.com">Cool Link</a>`
 - links to pages on the same site can use a "relative" URL (href="index.html")
 - organize pages in folders
@@ -49,5 +49,4 @@
   - Common in interviews to pair program with a current employee. Stellar communication skills are important
 6. Work environment readiness
   - Being familiar with pairing are ready to hit the ground running at a new company without having to learn it afterwards
-
-
+  
