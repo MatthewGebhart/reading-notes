@@ -20,7 +20,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 3. [Read 03 - HTML Lists, CSS Boxes, JS Control Flow](./class-03.md)
 4. [Read 04 - HTML Links, JS Functions, and Intro to CSS Layout](./class-04.md)
 5. [Read 05 - Images, Color, Text](./class-05.md)
-6. Read 06 - 
+6. [Read 06 - JS Object Literals; the DOM](./class-06.md)
 7. Read 07 - 
 8. Read 08 - 
 9. Read 09 - 
