@@ -13,5 +13,15 @@
 - Dot Notation
   - person.age
   - The object name (person) acts as the namespace
-  - Next you write a dot, then the item you want to access 
+  - Next you write a dot, then the item you want to access. 
   - this can be the name of a simple property, an item of an array property, or a call to one of the object's methods
+- Objects as object properties
+  - `name: ['Bob', 'Smith'],` to `name : {
+  first: 'Bob',
+  last: 'Smith'
+},` then you need another dot notation to call them. "person.name.first"
+- Bracket notation
+  - person['name']['first'] - similar to an array
+- "This" 
+  - The `this` keyword refers to the current object the code is being written inside
+  
