@@ -23,7 +23,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 6. [Read 06 - JS Object Literals; the DOM](./class-06.md)
 7. [Read 07 - HTML Tables; JS Constructor Functions](./class-07.md)
 8. [Read 08 - More CSS Layout](./class-08.md)
-9. Read 09 - 
+9. [Read 09 - Forms and JS Events](./class-09.md)
 10. Read 10 - 
 11. Read 11 - 
 12. Read 12 - 
