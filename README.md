@@ -15,16 +15,16 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 
 ## Code 201 Reading Notes
 
-1. [Read 01 - Introductory HTML and JavaScript](./class-01.md)
-2. [Read 02 - Basics of HTML, CSS & JS](./class-02.md)
-3. [Read 03 - HTML Lists, CSS Boxes, JS Control Flow](./class-03.md)
-4. [Read 04 - HTML Links, JS Functions, and Intro to CSS Layout](./class-04.md)
-5. [Read 05 - Images, Color, Text](./class-05.md)
-6. [Read 06 - JS Object Literals; the DOM](./class-06.md)
-7. [Read 07 - HTML Tables; JS Constructor Functions](./class-07.md)
-8. [Read 08 - More CSS Layout](./class-08.md)
-9. [Read 09 - Forms and JS Events](./class-09.md)
-10. Read 10 - 
+01. [Read 01 - Introductory HTML and JavaScript](./class-01.md)
+02. [Read 02 - Basics of HTML, CSS & JS](./class-02.md)
+03. [Read 03 - HTML Lists, CSS Boxes, JS Control Flow](./class-03.md)
+04. [Read 04 - HTML Links, JS Functions, and Intro to CSS Layout](./class-04.md)
+05. [Read 05 - Images, Color, Text](./class-05.md)
+06. [Read 06 - JS Object Literals; the DOM](./class-06.md)
+07. [Read 07 - HTML Tables; JS Constructor Functions](./class-07.md)
+08. [Read 08 - More CSS Layout](./class-08.md)
+09. [Read 09 - Forms and JS Events](./class-09.md)
+10. [Read 10 - JS Debugging](./class-10.md)
 11. Read 11 - 
 12. Read 12 - 
 13. Read 13 - 
