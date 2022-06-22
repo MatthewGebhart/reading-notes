@@ -27,7 +27,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 10. [Read 10 - JS Debugging](./class-10.md)
 11. [Read 11 - Audio, Video, Images](./class-11.md)
 12. [Read 12 - Chart.js, Canvas](./class-12.md)
-13. Read 13 - 
+13. [Read 13 - Local Storage](./class-13.md)
 14. Read 14 - 
 15. Read 15 - 
 
