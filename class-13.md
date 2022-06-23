@@ -13,3 +13,26 @@
   - sensitive personal information
 - Local storage can store what type of data? How would you convert it to that type before storing?
   - it can only store strings in local keys. You can get around this by using JSON.stringify() and JSON.parse() methods. Which are things I don't really understand....
+
+
+// JSON commands
+
+// read values
+localStorage.getItem('key"');
+
+//update values
+localStorage.setItem('key', 'Kale');
+localStorage.setItem('name', 'Jacob');
+
+//delete
+localStorage.removeItem('key');
+localStorage.clear(); ///nuke it all
+
+
+function addToKey (key, value) {
+    let currentValue = localStorage.getItem(key);
+
+    let newValue = currentValue + value;
+
+    localStorage.setItem(ket, newValue);
+}
