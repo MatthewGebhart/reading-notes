@@ -13,25 +13,8 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 
 ----
 
-## Code 201 Reading Notes
 
-01. [Read 01 - Introductory HTML and JavaScript](./class-01.md)
-02. [Read 02 - Basics of HTML, CSS & JS](./class-02.md)
-03. [Read 03 - HTML Lists, CSS Boxes, JS Control Flow](./class-03.md)
-04. [Read 04 - HTML Links, JS Functions, and Intro to CSS Layout](./class-04.md)
-05. [Read 05 - Images, Color, Text](./class-05.md)
-06. [Read 06 - JS Object Literals; the DOM](./class-06.md)
-07. [Read 07 - HTML Tables; JS Constructor Functions](./class-07.md)
-08. [Read 08 - More CSS Layout](./class-08.md)
-09. [Read 09 - Forms and JS Events](./class-09.md)
-10. [Read 10 - JS Debugging](./class-10.md)
-11. [Read 11 - Audio, Video, Images](./class-11.md)
-12. [Read 12 - Chart.js, Canvas](./class-12.md)
-13. [Read 13 - Local Storage](./class-13.md)
-14. [Read 14 -  CSS Transforms, Transitions, and Animations](./class-14.md)
-15. Read 15 - 
-
-## Code 102 Reading notes
+## Code 102 - ntro to Software Development
 
 1. [Class 1 - Markdown](./Code-102-notes/Class-1.md)
 2. [Class 2 - The Coders Computer](./Code-102-notes/Class-2.md)
@@ -42,3 +25,38 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 7. [Class 7 - Functions](./Code-102-notes/Class-7.md)
 8. [Class 8 - Loops](./Code-102-notes/Class-8.md)
   
+## Code 201 - Foundations of Software Development
+
+01. [Class 01 - Introductory HTML and JavaScript](./class-01.md)
+02. [Class 02 - Basics of HTML, CSS & JS](./class-02.md)
+03. [Class 03 - HTML Lists, CSS Boxes, JS Control Flow](./class-03.md)
+04. [Class 04 - HTML Links, JS Functions, and Intro to CSS Layout](./class-04.md)
+05. [Class 05 - Images, Color, Text](./class-05.md)
+06. [Class 06 - JS Object Literals; the DOM](./class-06.md)
+07. [Class 07 - HTML Tables; JS Constructor Functions](./class-07.md)
+08. [Class 08 - More CSS Layout](./class-08.md)
+09. [Class 09 - Forms and JS Events](./class-09.md)
+10. [Class 10 - JS Debugging](./class-10.md)
+11. [Class 11 - Audio, Video, Images](./class-11.md)
+12. [Class 12 - Chart.js, Canvas](./class-12.md)
+13. [Class 13 - Local Storage](./class-13.md)
+14. [Class 14 -  CSS Transforms, Transitions, and Animations](./class-14.md)
+
+## Code 301 - Intermediate Software Development
+
+01. [Read 01 - Introduction to React and Components](./Code-301-notes/class-01.md)
+02. 
+03. 
+04. 
+05. 
+06. 
+07. 
+08. 
+09. 
+10. 
+11. 
+12. 
+13. 
+14. 
+
+## Code 401 - Advanced Software Development
