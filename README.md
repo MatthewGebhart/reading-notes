@@ -14,7 +14,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 ----
 
 
-## Code 102 - ntro to Software Development
+## Code 102 - Intro to Software Development
 
 1. [Class 1 - Markdown](./Code-102-notes/Class-1.md)
 2. [Class 2 - The Coders Computer](./Code-102-notes/Class-2.md)
@@ -45,7 +45,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 ## Code 301 - Intermediate Software Development
 
 01. [Read 01 - Introduction to React and Components](./Code-301-notes/class-01.md)
-02. 
+02. [Read 01 - ](./Code-301-notes/class-02.md)
 03. 
 04. 
 05. 
