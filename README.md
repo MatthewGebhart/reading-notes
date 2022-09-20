@@ -27,25 +27,25 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
   
 ## Code 201 - Foundations of Software Development
 
-01. [Class 01 - Introductory HTML and JavaScript](./class-01.md)
-02. [Class 02 - Basics of HTML, CSS & JS](./class-02.md)
-03. [Class 03 - HTML Lists, CSS Boxes, JS Control Flow](./class-03.md)
-04. [Class 04 - HTML Links, JS Functions, and Intro to CSS Layout](./class-04.md)
-05. [Class 05 - Images, Color, Text](./class-05.md)
-06. [Class 06 - JS Object Literals; the DOM](./class-06.md)
-07. [Class 07 - HTML Tables; JS Constructor Functions](./class-07.md)
-08. [Class 08 - More CSS Layout](./class-08.md)
-09. [Class 09 - Forms and JS Events](./class-09.md)
-10. [Class 10 - JS Debugging](./class-10.md)
-11. [Class 11 - Audio, Video, Images](./class-11.md)
-12. [Class 12 - Chart.js, Canvas](./class-12.md)
-13. [Class 13 - Local Storage](./class-13.md)
-14. [Class 14 -  CSS Transforms, Transitions, and Animations](./class-14.md)
+01. [Class 01 - Introductory HTML and JavaScript](./Code-201-notes/class-01.md)
+02. [Class 02 - Basics of HTML, CSS & JS](./Code-201-notes/class-02.md)
+03. [Class 03 - HTML Lists, CSS Boxes, JS Control Flow](./Code-201-notes/class-03.md)
+04. [Class 04 - HTML Links, JS Functions, and Intro to CSS Layout](./Code-201-notes/class-04.md)
+05. [Class 05 - Images, Color, Text](./Code-201-notes/class-05.md)
+06. [Class 06 - JS Object Literals; the DOM](./Code-201-notes/class-06.md)
+07. [Class 07 - HTML Tables; JS Constructor Functions](./Code-201-notes/class-07.md)
+08. [Class 08 - More CSS Layout](./Code-201-notes/class-08.md)
+09. [Class 09 - Forms and JS Events](./Code-201-notes/class-09.md)
+10. [Class 10 - JS Debugging](./Code-201-notes/class-10.md)
+11. [Class 11 - Audio, Video, Images](./Code-201-notes/class-11.md)
+12. [Class 12 - Chart.js, Canvas](./Code-201-notes/class-12.md)
+13. [Class 13 - Local Storage](./Code-201-notes/class-13.md)
+14. [Class 14 -  CSS Transforms, Transitions, and Animations](./Code-201-notes/class-14.md)
 
 ## Code 301 - Intermediate Software Development
 
 01. [Read 01 - Introduction to React and Components](./Code-301-notes/class-01.md)
-02. [Read 01 - ](./Code-301-notes/class-02.md)
+02. [Read 02 - State and Props](./Code-301-notes/class-02.md)
 03. 
 04. 
 05. 
