@@ -46,7 +46,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 
 01. [Read 01 - Introduction to React and Components](./Code-301-notes/class-01.md)
 02. [Read 02 - State and Props](./Code-301-notes/class-02.md)
-03. 
+03. [Read 03 - Passing Functions as Props](./Code-301-notes/class-03.md)
 04. 
 05. 
 06. 
