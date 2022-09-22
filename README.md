@@ -47,16 +47,16 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 01. [Read 01 - Introduction to React and Components](./Code-301-notes/class-01.md)
 02. [Read 02 - State and Props](./Code-301-notes/class-02.md)
 03. [Read 03 - Passing Functions as Props](./Code-301-notes/class-03.md)
-04. 
-05. 
-06. 
-07. 
-08. 
-09. 
-10. 
-11. 
-12. 
-13. 
-14. 
+04. [Read 04 - React and Forms](./Code-301-notes/class-04.md)
+05. [Read 05 - ](./Code-301-notes/class-05.md)
+06. [Read 06 - ](./Code-301-notes/class-06.md)
+07. [Read 07 - ](./Code-301-notes/class-07.md)
+08. [Read 08 - ](./Code-301-notes/class-08.md)
+09. [Read 09 - ](./Code-301-notes/class-09.md)
+10. [Read 10 - ](./Code-301-notes/class-10.md)
+11. [Read 11 - ](./Code-301-notes/class-11.md)
+12. [Read 12 - ](./Code-301-notes/class-12.md)
+13. [Read 13 - ](./Code-301-notes/class-13.md)
+14. [Read 14 - ](./Code-301-notes/class-14.md)
 
 ## Code 401 - Advanced Software Development
