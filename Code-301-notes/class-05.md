@@ -28,3 +28,7 @@
   - it creates a new function to see if m is greater than n
 - Explain how either `map` or `reduce` operates, with regards to higher-order functions.
   - `map ` transforms an array by applying a function to all of its elements and putting them into a new array.
+
+  ## Things I want to know more about
+
+  - I was bit confused by some of the discussion about higher-order functions. I feel like we have been using some of these already and knowing how higher-order functions fit into what we have already learned would help me to understand the concept.
