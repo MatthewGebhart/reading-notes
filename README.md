@@ -53,7 +53,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 07. [Read 07 - REST](./Code-301-notes/class-07.md)
 08. [Read 08 - APIs](./Code-301-notes/class-08.md)
 09. [Read 09 - Functional Programming](./Code-301-notes/class-09.md)
-10. [Read 10 - ](./Code-301-notes/class-10.md)
+10. [Read 10 - Readings: In memory storage](./Code-301-notes/class-10.md)
 11. [Read 11 - ](./Code-301-notes/class-11.md)
 12. [Read 12 - ](./Code-301-notes/class-12.md)
 13. [Read 13 - ](./Code-301-notes/class-13.md)
