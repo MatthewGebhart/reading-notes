@@ -55,8 +55,10 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 09. [Read 09 - Functional Programming](./Code-301-notes/class-09.md)
 10. [Read 10 - Readings: In memory storage](./Code-301-notes/class-10.md)
 11. [Read 11 - Mongo and Mongoose](./Code-301-notes/class-11.md)
-12. [Read 12 - ](./Code-301-notes/class-12.md)
+12. [Read 12 - CRUD](./Code-301-notes/class-12.md)
 13. [Read 13 - ](./Code-301-notes/class-13.md)
 14. [Read 14 - ](./Code-301-notes/class-14.md)
+15. [Read 15 - ](./Code-301-notes/class-15.md)
+16. [Read 16 - ](./Code-301-notes/class-16.md)
 
 ## Code 401 - Advanced Software Development
