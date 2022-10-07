@@ -58,7 +58,7 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 12. [Read 12 - CRUD](./Code-301-notes/class-12.md)
 13. [Read 13 - More CRUD](./Code-301-notes/class-13.md)
 14. [Read 14 - Diversity & Inclusion in the Tech Industry](./Code-301-notes/class-14.md)
-15. [Read 15 - ](./Code-301-notes/class-15.md)
-16. [Read 16 - ](./Code-301-notes/class-16.md)
+15. [Read 15 - Authentication](./Code-301-notes/class-15.md)
+
 
 ## Code 401 - Advanced Software Development
