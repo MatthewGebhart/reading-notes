@@ -65,3 +65,4 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 
 
 [Learn SQL Prework assignment](./Code-401-notes/LearnSQLprework.md)
+[Terminal Practice Prework assignment](./Code-401-notes/TerminalPractice.md)
