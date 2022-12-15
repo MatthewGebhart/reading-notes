@@ -63,6 +63,13 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 
 ## Code 401 - Advanced Software Development
 
+Prework assignments
+- [Learn SQL Prework assignment](./Code-401-notes/LearnSQLprework.md)
+- [Terminal Practice Prework assignment](./Code-401-notes/TerminalPractice.md)
+- [Data Structures and Algorithms](Code-401-notes/DataStructuresAndAlgorithms.md)
 
-[Learn SQL Prework assignment](./Code-401-notes/LearnSQLprework.md)
-[Terminal Practice Prework assignment](./Code-401-notes/TerminalPractice.md)
+Reading Notes
+01. [Class 01 - ](Code-401-notes/class-01.md)
+02. 
+03. 
+
