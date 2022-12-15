@@ -63,4 +63,5 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 
 ## Code 401 - Advanced Software Development
 
-[Learn SQL Prework assignment](./Code-401-notes/LearnSQLprework)
+
+[Learn SQL Prework assignment](./Code-401-notes/LearnSQLprework.md)
