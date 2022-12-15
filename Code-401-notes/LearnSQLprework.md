@@ -50,8 +50,6 @@ ADD column DataType OptionalTableConstraint
 
 ## SS of completed lessons
 
-
-![](Assets/SQLExercise1.png)
 ![](Assets/SQLExercise1.png)
 ![](Assets/SQLExercise2.png)
 ![](Assets/SQLExercise3.png)
