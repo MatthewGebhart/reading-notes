@@ -68,6 +68,7 @@ Prework assignments
 - [Terminal Practice Prework assignment](./Code-401-notes/TerminalPractice.md)
 - [Data Structures and Algorithms](./Code-401-notes/DataStructuresAndAlgorithms.md)
 - [Growth Mindset](./Code-401-notes/GrowthMindset.md)
+- [Engineering Reading](./Code-401-notes/EngineeringReading.md)
 
 Reading Notes
 01. [Class 01 - Topics ](./Code-401-notes/class-01.md)
