@@ -70,7 +70,7 @@ Prework assignments
 - [Growth Mindset](./Code-401-notes/GrowthMindset.md)
 
 Reading Notes
-01. [Class 01 - ](./Code-401-notes/class-01.md)
-02. 
+01. [Class 01 - Topics ](./Code-401-notes/class-01.md)
+02. [Class 02 - Testing and Modules](./Code-401-notes/class-02.md)
 03. 
 
