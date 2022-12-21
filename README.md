@@ -63,15 +63,23 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 
 ## Code 401 - Advanced Software Development
 
-Prework assignments
+
+Reading Notes
+01. [Class 01 - Topics ](./Code-401-notes/class-01.md)
+02. [Class 02 - Testing and Modules](./Code-401-notes/class-02.md)
+03. [Class 03 - FileIO & Exceptions](Code-401-notes/class-03.md)
+04. 
+05. 
+06. 
+07. 
+08. 
+09. 
+10. 
+
+
+Other assignments and readings
 - [Learn SQL Prework assignment](./Code-401-notes/LearnSQLprework.md)
 - [Terminal Practice Prework assignment](./Code-401-notes/TerminalPractice.md)
 - [Data Structures and Algorithms](./Code-401-notes/DataStructuresAndAlgorithms.md)
 - [Growth Mindset](./Code-401-notes/GrowthMindset.md)
 - [Engineering Reading](./Code-401-notes/EngineeringReading.md)
-
-Reading Notes
-01. [Class 01 - Topics ](./Code-401-notes/class-01.md)
-02. [Class 02 - Testing and Modules](./Code-401-notes/class-02.md)
-03. 
-
