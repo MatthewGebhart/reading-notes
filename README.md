@@ -69,7 +69,7 @@ Reading Notes
 02. [Class 02 - Testing and Modules](./Code-401-notes/class-02.md)
 03. [Class 03 - FileIO & Exceptions](Code-401-notes/class-03.md)
 04. [Class 04 - Classes and Pytest](Code-401-notes/class-04.md)
-05. 
+05. [Class 05 - Linked Lists](Code-401-notes/class-05.md)
 06. 
 07. 
 08. 
