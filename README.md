@@ -70,8 +70,8 @@ Reading Notes
 03. [Class 03 - FileIO & Exceptions](Code-401-notes/class-03.md)
 04. [Class 04 - Classes and Pytest](Code-401-notes/class-04.md)
 05. [Class 05 - Linked Lists](Code-401-notes/class-05.md)
-06. 
-07. 
+06. [Class 06 - Ten Thousand Game 1](Code-401-notes/class-06.md)
+07. [Class 07 - Ten Thousand Game 2](Code-401-notes/class-07.md)
 08. 
 09. 
 10. 
