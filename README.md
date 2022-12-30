@@ -73,8 +73,12 @@ Reading Notes
 06. [Class 06 - Ten Thousand Game 1](Code-401-notes/class-06.md)
 07. [Class 07 - Ten Thousand Game 2](Code-401-notes/class-07.md)
 08. [Class 08 - Ten Thousand Game 3](Code-401-notes/class-08.md)
-09. 
-10. 
+10. [Class 10 - Implementation: Stacks and Queues](Code-401-notes/class-10.md)
+11. 
+12. 
+13. 
+14. 
+15.  
 
 
 Other assignments and readings
