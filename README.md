@@ -75,7 +75,7 @@ Reading Notes
 08. [Class 08 - Ten Thousand Game 3](Code-401-notes/class-08.md)
 10. [Class 10 - Implementation: Stacks and Queues](Code-401-notes/class-10.md)
 11. [Class 11 - Data Analysis](Code-401-notes/class-11.md)
-12. 
+12. [Class 12 - Pandas](Code-401-notes/class-12.md)
 13. 
 14. 
 15.  
