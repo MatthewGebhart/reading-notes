@@ -77,9 +77,16 @@ Reading Notes
 11. [Class 11 - Data Analysis](Code-401-notes/class-11.md)
 12. [Class 12 - Pandas](Code-401-notes/class-12.md)
 13. [Class 13 - Linear Regressions](Code-401-notes/class-13.md)
-14. 
-15.  
-
+14. [Class 14 Data Visualization](Code-401-notes/class-14.md)
+15. 
+16.   
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+23. 
 
 Other assignments and readings
 - [Learn SQL Prework assignment](./Code-401-notes/LearnSQLprework.md)
