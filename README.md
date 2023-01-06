@@ -78,7 +78,7 @@ Reading Notes
 12. [Class 12 - Pandas](Code-401-notes/class-12.md)
 13. [Class 13 - Linear Regressions](Code-401-notes/class-13.md)
 14. [Class 14 Data Visualization](Code-401-notes/class-14.md)
-15. 
+15. [Class 15 - Trees](Code-401-notes/class-15.md)
 16.   
 17. 
 18. 
