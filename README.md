@@ -79,7 +79,7 @@ Reading Notes
 13. [Class 13 - Linear Regressions](Code-401-notes/class-13.md)
 14. [Class 14 Data Visualization](Code-401-notes/class-14.md)
 15. [Class 15 - Trees](Code-401-notes/class-15.md)
-16.   
+16. [Class 16 - Serverless Functions](Code-401-notes/class-16.md)
 17. 
 18. 
 19. 
