@@ -80,8 +80,8 @@ Reading Notes
 14. [Class 14 Data Visualization](Code-401-notes/class-14.md)
 15. [Class 15 - Trees](Code-401-notes/class-15.md)
 16. [Class 16 - Serverless Functions](Code-401-notes/class-16.md)
-17. 
-18. 
+17. [Class 17 - Web Scraping](Code-401-notes/class-17.md)
+18. [Class 18 - Cryptography](Code-401-notes/class-18.md)
 19. 
 20. 
 21. 
