@@ -77,12 +77,12 @@ Reading Notes
 11. [Class 11 - Data Analysis](Code-401-notes/class-11.md)
 12. [Class 12 - Pandas](Code-401-notes/class-12.md)
 13. [Class 13 - Linear Regressions](Code-401-notes/class-13.md)
-14. [Class 14 Data Visualization](Code-401-notes/class-14.md)
+14. [Class 14 - Data Visualization](Code-401-notes/class-14.md)
 15. [Class 15 - Trees](Code-401-notes/class-15.md)
 16. [Class 16 - Serverless Functions](Code-401-notes/class-16.md)
 17. [Class 17 - Web Scraping](Code-401-notes/class-17.md)
 18. [Class 18 - Cryptography](Code-401-notes/class-18.md)
-19. 
+19. [Class 19 - Automation](Code-401-notes/class-19.md)
 20. 
 21. 
 22. 
