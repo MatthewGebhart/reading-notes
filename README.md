@@ -60,12 +60,11 @@ Hello World! I'm Matthew (he/him) and I'm just getting into the world of coding.
 14. [Read 14 - Diversity & Inclusion in the Tech Industry](./Code-301-notes/class-14.md)
 15. [Read 15 - Authentication](./Code-301-notes/class-15.md)
 
-
 ## Code 401 - Advanced Software Development
 
-
 Reading Notes
-01. [Class 01 - Topics ](./Code-401-notes/class-01.md)
+
+01. [Class 01 - Topics](./Code-401-notes/class-01.md)
 02. [Class 02 - Testing and Modules](./Code-401-notes/class-02.md)
 03. [Class 03 - FileIO & Exceptions](Code-401-notes/class-03.md)
 04. [Class 04 - Classes and Pytest](Code-401-notes/class-04.md)
@@ -83,10 +82,15 @@ Reading Notes
 17. [Class 17 - Web Scraping](Code-401-notes/class-17.md)
 18. [Class 18 - Cryptography](Code-401-notes/class-18.md)
 19. [Class 19 - Automation](Code-401-notes/class-19.md)
-20. 
-21. 
-22. 
-23. 
+26. [Class 26 - Intro to Django](Code-401-notes/class-26.md)
+27. [Class 27 - Django Models](Code-401-notes/class-27.md)
+28. [Class 28 - Django CRUD and Forms](Code-401-notes/class-28.md)
+29. [Class 29 Django Custom User](Code-401-notes/class-29.md)
+30. [Class 30 - Implementation: Hash Tables](Code-401-notes/class-30.md)
+31. 
+32. 
+
+
 
 Other assignments and readings
 - [Learn SQL Prework assignment](./Code-401-notes/LearnSQLprework.md)
