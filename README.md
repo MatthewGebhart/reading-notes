@@ -88,7 +88,7 @@ Reading Notes
 29. [Class 29 Django Custom User](Code-401-notes/class-29.md)
 30. [Class 30 - Implementation: Hash Tables](Code-401-notes/class-30.md)
 31. [Class 31 - Django REST Framework & Docker](Code-401-notes/class-31.md)
-32. 
+32. [Class 32 - Permissions & Postgresql](Code-401-notes/class-32.md)
 33. 
 34. 
 35. 
