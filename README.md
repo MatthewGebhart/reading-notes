@@ -94,9 +94,8 @@ Reading Notes
 36. [Class 36 - Whiteboard Interviews](Code-401-notes%2Fclass-36.md)
 37. [Class 37 - React 1](Code-401-notes%2Fclass-37.md)
 38. [Class 38 - React 2](Code-401-notes%2Fclass-38.md)
-39. 
+39. [Class 39 - React 3](Code-401-notes%2Fclass-39.md) 
 40. 
-
 
 
 
