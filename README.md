@@ -95,8 +95,8 @@ Reading Notes
 37. [Class 37 - React 1](Code-401-notes%2Fclass-37.md)
 38. [Class 38 - React 2](Code-401-notes%2Fclass-38.md)
 39. [Class 39 - React 3](Code-401-notes%2Fclass-39.md) 
-40. 
-
+41. [Class 41 - React 4](Code-401-notes%2Fclass-41.md)
+42. 
 
 
 Other assignments and readings
