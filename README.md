@@ -85,7 +85,7 @@ Reading Notes
 26. [Class 26 - Intro to Django](Code-401-notes/class-26.md)
 27. [Class 27 - Django Models](Code-401-notes/class-27.md)
 28. [Class 28 - Django CRUD and Forms](Code-401-notes/class-28.md)
-29. [Class 29 Django Custom User](Code-401-notes/class-29.md)
+29. [Class 29 - Django Custom User](Code-401-notes/class-29.md)
 30. [Class 30 - Implementation: Hash Tables](Code-401-notes/class-30.md)
 31. [Class 31 - Django REST Framework & Docker](Code-401-notes/class-31.md)
 32. [Class 32 - Permissions & Postgresql](Code-401-notes/class-32.md)
@@ -97,8 +97,8 @@ Reading Notes
 39. [Class 39 - React 3](Code-401-notes%2Fclass-39.md) 
 41. [Class 41 - React 4](Code-401-notes%2Fclass-41.md)
 42. [Class 42 - Pythonisms](Code-401-notes%2Fclass-42.md)
-42b.[Class 42b - Ethics in Tech](Code-401-notes%2Fclass-42b.md)
-43. 
+42b. [Class 42b - Ethics in Tech](Code-401-notes%2Fclass-42b.md)
+43. [Class 43 - Open-Source Software Contributions](Code-401-notes%2Fclass-43.md)
 
 
 Other assignments and readings
