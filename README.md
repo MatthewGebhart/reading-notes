@@ -96,7 +96,9 @@ Reading Notes
 38. [Class 38 - React 2](Code-401-notes%2Fclass-38.md)
 39. [Class 39 - React 3](Code-401-notes%2Fclass-39.md) 
 41. [Class 41 - React 4](Code-401-notes%2Fclass-41.md)
-42. 
+42. [Class 42 - Pythonisms](Code-401-notes%2Fclass-42.md)
+42b.[Class 42b - Ethics in Tech](Code-401-notes%2Fclass-42b.md)
+43. 
 
 
 Other assignments and readings
